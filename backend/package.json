@@ -1,0 +1,16 @@
+{
+  "name": "cart",
+  "version": "1.0.0",
+  "description": "emular carrito de compras ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev" : "nodemon arreglos.js"
+  },
+  "author": "Cristian David",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
