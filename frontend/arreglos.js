@@ -32,5 +32,10 @@ const nombres2 =[
     "transportador",
     "regla 30 cm"
 ]
-const productos = [...nombres, ...nombres2]
+let productos = [...nombres, ...nombres2]
+const elemento = "compas";
+productos1 = [...productos , elemento]
+const transportador = "transportador";
+productos1 = [...productos1 , transportador]
+
 console.table(productos)

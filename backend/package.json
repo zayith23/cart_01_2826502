@@ -4,8 +4,8 @@
   "description": "emular carrito de compras ",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev" : "nodemon arreglos.js"
+    "start": "node array_methods.js",
+    "dev" : "nodemon ShoppingCart.js"
   },
   "author": "Cristian David",
   "license": "ISC",
