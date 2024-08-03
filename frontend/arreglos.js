@@ -1,4 +1,4 @@
-/*definir un arrehlo de 
+/*definir un arreglo de 
 nombre de producto */
 
 const nombres = ["lapiz HB", "resaltador",'borrador de nata'];

@@ -132,7 +132,7 @@ console.log(`el valor del inventario es: ${total}`)
 
 /*utilizando la funcion del method reduce: 
 reduce a un solo el valor del arreglo con base en una exprecion*/
-let inventario = carrito.reduce((total, prodcuto)=>{
+let inventario = carrito.reduce((total, producto)=>{
     return total + prodcuto.precio.compra
 },0)
 
